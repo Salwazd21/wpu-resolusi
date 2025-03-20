@@ -1,0 +1,4 @@
+WPU Resolusi
+- Menyelesaikan setiap model pelatihan dengan tepat waktu;
+- Menyelesaikan data analis untuk besok;
+- Tidak lupa melakukan daily check-in.
