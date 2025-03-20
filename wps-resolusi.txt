@@ -1,4 +1,6 @@
 WPU Resolusi
 - Menyelesaikan setiap model pelatihan dengan tepat waktu;
 - Menyelesaikan data analis untuk besok;
-- Tidak lupa melakukan daily check-in.
+- Tidak lupa melakukan daily check-in;
+- jangan lupa hadir zoom;
+- baik ilt atau weakly session
